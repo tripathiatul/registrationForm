@@ -1,0 +1,42 @@
+.body
+{
+    text-align: center;
+}
+.name{
+    background-color:lightskyblue;
+
+}
+
+.registration
+{
+ background-color: #F2FF86;   
+ color: red;
+ 
+}
+
+.regf
+{
+    font-weight: bolder;
+    font-size: x-large;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+input[type=select]
+{
+    background-color: white;
+}
+
+
+input[type=submit]
+{
+    padding: 5px  30px;
+    margin-left: 3px  ;
+}
+.cl
+{
+    background-color: white;
+}
+.sel
+{
+    color: wheat;
+}
